@@ -1,7 +1,7 @@
 # quizApplicationJava
 Developed a Quiz Application using Java and JavaFX.
 
-##Screenshots
+## Screenshots
 1.	Start of an Application
  <img width="572" height="534" alt="image" src="https://github.com/user-attachments/assets/0f9fdb41-5a60-4fa7-9fd3-2d7f74d7905b" />
 
