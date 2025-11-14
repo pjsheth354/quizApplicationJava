@@ -17,7 +17,7 @@ Developed a Quiz Application using Java and JavaFX.
 5.	Agility Process
  <img width="651" height="614" alt="image" src="https://github.com/user-attachments/assets/5321a07d-c4df-4471-9c5f-4260af0f539c" />
 
-Issues
+# Issues
 1.	Working CSV file and formatting the CSV data.
 2.	Fetching questions from a CSV file.
 3.	Submitting the answer and updating the values for the user.
